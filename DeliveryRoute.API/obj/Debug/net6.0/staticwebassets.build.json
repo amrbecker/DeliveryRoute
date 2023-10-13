@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Gl5LbjVgrn0ddDEfSkU5EwP/yF5tFUYOchoSXgxe/Sk=",
+  "Source": "DeliveryRoute.API",
+  "BasePath": "_content/DeliveryRoute.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
