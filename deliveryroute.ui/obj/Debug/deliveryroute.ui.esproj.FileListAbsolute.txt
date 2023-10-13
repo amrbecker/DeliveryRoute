@@ -1,0 +1,1 @@
+C:\Git\Ateliware\DeliveryRoute\DeliveryRoute.UI\obj\Debug\deliveryroute.ui.esproj.CoreCompileInputs.cache
